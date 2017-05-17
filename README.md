@@ -13,5 +13,5 @@ Pull to request for approval
 
 Merge to approve
 
-(delete branch)
+(Delete branch)
 ========
